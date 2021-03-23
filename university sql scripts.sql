@@ -1,18 +1,3 @@
-USE university_sql_course_project;
-
-SELECT *
-FROM professors;
-
-SELECT *
-FROM students;
-
-SELECT *
-FROM courses;
-
-SELECT *
-FROM grades; 
-
-
 -- Insert scripts for the courses table:
 
 INSERT INTO courses(courses_name)
