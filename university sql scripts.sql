@@ -1,3 +1,5 @@
+USE university_sql_course_project;
+
 -- Insert scripts for the courses table:
 
 INSERT INTO courses(courses_name)
